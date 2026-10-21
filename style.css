@@ -7,7 +7,7 @@ h1{font-size:clamp(3rem,10vw,8rem)}
 h2{font-size:clamp(2rem,5vw,4rem)}
 h3{font-size:1.6rem}
 a{color:var(--navy)}
-img{max-width:100%;display:block}
+img{max-width:100%;height:auto;display:block}
 header{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;padding:28px 32px;background:var(--navy)}
 .logo{font-size:1.6rem;text-decoration:none;color:var(--gold)}
 nav a{margin-left:26px;color:var(--pale);font-size:1rem}
